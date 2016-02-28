@@ -4,6 +4,8 @@ import java.util.Observable;
 import java.util.Observer;
 
 public class Gamebar implements Observer {
+	
+	//Yeni mira el cambio
 
 	private int x_pos;
 	
